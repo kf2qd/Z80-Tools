@@ -1,0 +1,7 @@
+frmConsoleDisplay = 0, 0, 0, 0, C, 78, 78, 1132, 528, C
+frmz80Emu = 11, 0, 1065, 598, , -387, -9, 999, 630, C
+modZ80emu = 0, 0, 0, 0, C
+modDissasm = 0, 0, 0, 0, C
+modObjectSave = 0, 0, 0, 0, C
+modAsmZ80 = 0, 0, 0, 0, C
+frmAsmList = 0, 0, 0, 0, C, 0, 0, 0, 0, C
